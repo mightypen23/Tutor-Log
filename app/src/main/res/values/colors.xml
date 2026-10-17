@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Retro Wes Anderson Palette -->
+    <color name="sinopia">#D7340B</color>
+    <color name="vanilla">#E0DDAE</color>
+    <color name="caribbean">#336467</color>
+    <color name="ink_dark">#1E282A</color>
+    <color name="paper_cream">#FAF7EE</color>
+</resources>
